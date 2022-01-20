@@ -1,6 +1,6 @@
 # Bank System Assignment of Group6
 
-It is an assignment project using C++. We implemented in **2017**.
+It's an assignment project using C++. We implemented it in **2017**.
 
 # Installation
 
